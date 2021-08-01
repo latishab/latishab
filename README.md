@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @latishab, i'm a student who loves to code 
+- 👀 I’m interested in Artificial Intelligence and Web Development
+- 🌱 I’m currently learning python and web development
+- 📫 Languages : C++, Javascript, Python
