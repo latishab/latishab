@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @latishab, i'm a student who loves to code 
+- 👋 Hi, I’m @latishab, i'm a design engineer who loves to build products.
 - 👀 I’m interested in Artificial Intelligence and HCI
-- 🌱 I’m currently learning machine learning and NLP
-- 📫 Languages : C++, Javascript, Python
+- 🌱 I’m currently learning computer vision and nlp
+- 📫 Languages : Python, SwiftUI, C++
