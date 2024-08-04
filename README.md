@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @latishab, i'm a design engineer who loves to build products.
-- 👀 I’m interested in Artificial Intelligence and HCI
-- 🌱 I’m currently learning computer vision and nlp
-- 📫 Languages : Python, SwiftUI, C++
+- 🌱 Currently building diverplus.app
