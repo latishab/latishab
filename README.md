@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @latishab, i'm a design engineer who loves to build products.
-- 🌱 Currently building [diverplus.app](https://www.diverplus.app)
+- 🌱 Currently building [diverplus.app](https://www.trycurrents.app)
