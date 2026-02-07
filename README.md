@@ -1,4 +1,6 @@
-👋 Hi, I’m @latishab, i'm a software engineer who loves to build products.
+👋 Hi, I’m @latishab, a software engineer who loves building products that actually ship.
+
+Outside of work, I spend my time scuba diving, building robots, and designing things. Yes, that’s a lot of hobbies. No, I don’t plan on stopping.
 
 ***
 
