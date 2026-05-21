@@ -2,6 +2,8 @@
 
 Outside of work, I spend my time scuba diving, building robots, and designing things. Yes, that’s a lot of hobbies. No, I don’t plan on stopping.
 
+[![Latisha. profile views](https://u8views.com/api/v1/github/profiles/65409598/views/day-week-month-total-count.svg)](https://u8views.com/github/latishab)
+
 ***
 
 ### Current Projects
